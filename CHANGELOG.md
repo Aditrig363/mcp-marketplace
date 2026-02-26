@@ -1,4 +1,7 @@
 # Change Log
+
+## 0.5.0
+fix: prevent shell injection in version-bump workflow
 ## 0.4.1
 Fixed the `--force` flag passsed into the `semgrep login` command
 
