@@ -20,8 +20,9 @@ To use the Semgrep plugin:
   claude
   ```
 1. If it still doesn't work, try enabling the plugin:
-    ```
-    /plugin enable semgrep-plugin@semgrep
+  ```
+  /plugin enable semgrep-plugin@semgrep
+  ```
 
 ## Contributing
 
