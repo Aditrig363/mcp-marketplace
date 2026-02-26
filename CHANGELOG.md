@@ -1,4 +1,7 @@
 # Change Log
+
+## 0.5.0
+feat: update CHANGELOG.md on version bump
 ## 0.4.1
 Fixed the `--force` flag passsed into the `semgrep login` command
 
